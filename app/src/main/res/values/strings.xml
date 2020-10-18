@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_hint"><font size="12">カテゴリ名</font></string>
+    <string name="search_text">検索</string>
+    <string name="r_button">リセット</string>
+</resources>
